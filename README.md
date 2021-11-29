@@ -8,7 +8,7 @@ Additionally I teach courses in Python for Data Sciences and Material in electri
 - ✨ My Github hosts solutions to exercise files for my programming classes, work and hobby projects.
 - 👀 I’m interested in everything Python, Data Sciences, Webservices, numerical simulations, home servers and much more
 - 🌱 I’m currently learning fastAPI (Python), Go (in general)
-- 📫 To reach me, you can write a mail to daniel.kappe@gmail.com
+- 📫 To reach me, you can write a mail to danielkappe@gmail.com
 
 <!---
 daniel-kappe/daniel-kappe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
